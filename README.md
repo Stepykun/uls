@@ -13,6 +13,6 @@ Open link in source section to find out each flag meaning.
 ## Installation
 * For installation you need macOS mojave.
 ```
-$>make
-$>./uls -{flags} {arguments}
+$> make
+$> ./uls -{flags} {arguments}
 ```
